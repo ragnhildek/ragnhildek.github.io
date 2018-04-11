@@ -1,4 +1,4 @@
-###### Curriculum Vitae of Ragnhild Elise Kavli
+# Curriculum Vitae of Ragnhild Elise Kavli
 
 ## **Education**
 
@@ -30,16 +30,16 @@ Feb 2011-Aug 2015: Care worker, Kirkebakken omsorgssenter, Molde
 
 ## **Other**                
 
-#Language	
+*Language*	
 Norwegian: mother tongue
 English: fluent both in speaking and writing
 Italian: practiced one year in Italy
                                                 
- *Courses	
+ *Courses*	
 Italian language course A1, Università per Stranieri di Siena, Italia
 Italian language course A2, Politecnico di Torino, Italia
 
-*Computer knowledge	
+*Computer knowledge*	
 Excel, Matlab, Eclipse (JAVA) and Xpress
 
 *University Organizations 
@@ -50,7 +50,8 @@ Part of arrangement group, Protect Our Winters
 
 ## **References**
 Heidi Aandal: Head of department, Kirkebakken omsorgssenter, nr: 41621488
-e-post: Heidi.Aandal@molde.kommune .no
+e-post: Heidi.Aandal@molde.kommune.no
+
 Beate Øygarden og Svein Aaseng	Managers, Bjørnhollia Turisthytte, nr: 90111380 
 e-post: bjornhollia@turistforeningen.no
 
