@@ -3,9 +3,9 @@
 ## **Education**
 
 Aug 2014-Jun 2019: Norwegian univeristy of science and technology, Trondheim                                         
-	Industrial economics and technology management, integrated 5 year long master
+	           Industrial economics and technology management, integrated 5 year long master
 	
-Jan 2018 - Aug 2018: Norwegian School of Entrepreneurship, University of Oslo: 										Graduate level program
+Jan 2018 - Aug 2018: Norwegian School of Entrepreneurship, University of Oslo:                                                                                Graduate level program
 	
 Sep 2016-Jul 2017: Politecnico di Torino: 														Exchange, Management engineering
 	   
