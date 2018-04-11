@@ -5,29 +5,29 @@
 Aug 2014-Jun 2019: Norwegian univeristy of science and technology, Trondheim                                         
 	Industrial economics and technology management, integrated 5 year long master
 	
-Jan 2018 - Aug 2018: Norwegian School of Entrepreneurship, University of Oslo
+Jan 2018 - Aug 2018: Norwegian School of Entrepreneurship, University of Oslo: 
 	Graduate level program
 	
-Sep 2016-Jul 2017: Politecnico di Torino
+Sep 2016-Jul 2017: Politecnico di Torino: 
 	Exchange, Management engineering
 	   
-Aug 2013-May 2014: Nordfjord folkehøgskole                                                   
+Aug 2013-May 2014: Nordfjord folkehøgskole:                                                    
 	Gap year at a school with skiing, hiking and socializing before university
 	
-Aug 2010-Jun 2013: Molde Videregående skole
+Aug 2010-Jun 2013: Molde Videregående skole: 
 	High school with specialization in mathematics, chemistry and physics
  
 	   
 
 ## **Work experience**	     
 
-Aug 2017-Dec 2017: Student assistant, NTNU 
+Aug 2017-Dec 2017: Student assistant, NTNU:  
 	Student assistant in IT; programming Matlab
 	
-Jun 2016-Aug 2016: Co worker, Bjørnhollia Turisthytte
+Jun 2016-Aug 2016: Co worker, Bjørnhollia Turisthytte: 
 	Summer Internship for DNT; The Norwegian hiking association 
 	
-Feb 2011-Aug 2015: Care worker, Kirkebakken omsorgssenter, Molde
+Feb 2011-Aug 2015: Care worker, Kirkebakken omsorgssenter, Molde: 
 	Summer and part time job at an elderly home
 
 
