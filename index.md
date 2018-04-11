@@ -18,8 +18,7 @@ Aug 2010-Jun 2013: Molde Videregående skole:
 
 ## **Work experience**	     
 
-Aug 2017-Dec 2017: Student assistant, NTNU:  
-	Student assistant in IT; programming Matlab
+Aug 2017-Dec 2017: Student assistant, NTNU: Student assistant in IT; programming Matlab
 	
 Jun 2016-Aug 2016: Co worker, Bjørnhollia Turisthytte: 
 	Summer Internship for DNT; The Norwegian hiking association 
