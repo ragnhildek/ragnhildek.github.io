@@ -41,13 +41,13 @@ English: fluent both in speaking and writing
 
 Italian: practiced one year in Italy
                                                 
-*Courses*
+#### Courses
 
 Italian language course A1, Università per Stranieri di Siena, Italia
 
 Italian language course A2, Politecnico di Torino, Italia
 
-*Computer knowledge*	
+#### Computer knowledge	
 
 Excel, Matlab, JAVA and Xpress
 
