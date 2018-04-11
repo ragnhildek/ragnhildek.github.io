@@ -49,12 +49,8 @@ Part of arrangement group, Protect Our Winters
 
 **References**
 
-Heidi Aandal	
-Head of department, Kirkebakken omsorgssenter, nr: 41621488, 
-e-post: Heidi.Aandal@molde.kommune .no
-Beate Øygarden 
-og Svein Aaseng	Managers, Bjørnhollia Turisthytte, nr: 90111380
-e-post: bjornhollia@turistforeningen.no
+Heidi Aandal: Head of department, Kirkebakken omsorgssenter, nr: 41621488, e-post: Heidi.Aandal@molde.kommune .no
+Beate Øygarden og Svein Aaseng	Managers, Bjørnhollia Turisthytte, nr: 90111380, e-post: bjornhollia@turistforeningen.no
 
 
 
