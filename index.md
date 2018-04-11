@@ -52,9 +52,9 @@ Italian language course A2, Politecnico di Torino, Italia
 Excel, Matlab, JAVA and Xpress
 
 #### University Organizations
+Sales department, UKA 2015
 
-Co worker in the sales department, UKA 2015
-Part of arrangement group, Protect Our Winters
+Arrangement group, Protect Our Winters 2017/2018
 
 
 
