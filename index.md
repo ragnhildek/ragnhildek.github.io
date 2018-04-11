@@ -33,7 +33,8 @@ Feb 2011-Aug 2015: Care worker, Kirkebakken omsorgssenter, Molde
 
 ## **Other**                
 
-*Language*	
+*Language*
+
 Norwegian: mother tongue
 
 English: fluent both in speaking and writing
