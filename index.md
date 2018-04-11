@@ -1,26 +1,26 @@
-#### Curriculum Vitae of Ragnhild Elise Kavli
+###### Curriculum Vitae of Ragnhild Elise Kavli
 
 ## **Education**
 
-Aug 2014-Jun 2019	Norwegian univeristy of science and technology, Trondheim                                         
+Aug 2014-Jun 2019: Norwegian univeristy of science and technology, Trondheim                                         
 	Industrial economics and technology management, integrated 5 year long master
-Sep 2016-Jul 2017	Politecnico di Torino
+Sep 2016-Jul 2017: Politecnico di Torino
 	Exchange, Management engineering
 	   
-Aug 2013-May 2014	Nordfjord folkehøgskole                                                   
+Aug 2013-May 2014: Nordfjord folkehøgskole                                                   
 	Gap year at a school with skiing, hiking and socializing before university
-Aug 2010-Jun 2013	Molde Videregående skole
+Aug 2010-Jun 2013: Molde Videregående skole
 	High school with specialization in mathematics, chemistry and physics
  
 	   
 
 ## **Working experience**	     
 
-Aug 2017-Dec 2017	Student assistant, NTNU 
+Aug 2017-Dec 2017: Student assistant, NTNU 
 	Student assistant in IT; programming Matlab
-Jun 2016-Aug 2016	Co worker, Bjørnhollia Turisthytte
+Jun 2016-Aug 2016: Co worker, Bjørnhollia Turisthytte
 	Summer Internship for DNT; The Norwegian hiking association 
-Feb 2011-Aug 2015	Care worker, Kirkebakken omsorgssenter, Molde
+Feb 2011-Aug 2015: Care worker, Kirkebakken omsorgssenter, Molde
 	Summer and part time job at an elderly home
 
 
@@ -29,7 +29,7 @@ Feb 2011-Aug 2015	Care worker, Kirkebakken omsorgssenter, Molde
 #Language	
 Norwegian: mother tongue
 English: fluent both in speaking and writing
-	Italian: practiced one year in Italy
+Italian: practiced one year in Italy
                                                 
 # Courses	
 Italian language course A1, Università per Stranieri di Siena, Italia
