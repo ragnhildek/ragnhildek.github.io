@@ -19,7 +19,7 @@ Aug 2010-Jun 2013: Molde Videregående skole
  
 	   
 
-## **Working experience**	     
+## **Work experience**	     
 
 Aug 2017-Dec 2017: Student assistant, NTNU 
 	Student assistant in IT; programming Matlab
